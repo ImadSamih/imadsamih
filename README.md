@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me 
 
-- 🔭 I’m Engineer cybersecurity
+- 🔭 I’m cybersecurity Engineer 
 
 - 🌱 **Ethical hacking**
 
-- 🧠 I’m Programmer **FullStackDevloper**
+- 🧠 Programmer **FullStackDevloper**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](www.imadtech1.com)**
 
