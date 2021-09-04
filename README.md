@@ -54,6 +54,7 @@
       CPU:Intel Core i9 11900k 4.5 GHz
       RAM:64GB  Corsair Vengeance RGB 3800Mhz
       NZXT Water 3.0 240 RGB
+      GPU:RTX3080 24GB Asus Rog Strix
       storage:1To HDD +512GB SSD />
 <p align="center"> 
     <a href="https://www.microsoft.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/windows-10.png"/> </a>
